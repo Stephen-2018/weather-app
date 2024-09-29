@@ -14,7 +14,7 @@ Simple and responsive design, optimized for both mobile and desktop devices.
 
 **Steps to Install Locally**
 1. Clone the repository:
-git clone https://github.com/your-username/weather-app.git
+git clone https://github.com/Stephen-2018/weather-app.git
 
 2. Navigate to the project directory:
 cd weather-app
