@@ -13,24 +13,15 @@ Simple and responsive design, optimized for both mobile and desktop devices.
 2. A GitHub account and Git installed.
 
 **Steps to Install Locally**
-Clone the repository:
-
-bash
-Copy code
+1. Clone the repository:
 git clone https://github.com/your-username/weather-app.git
-Navigate to the project directory:
 
-bash
-Copy code
+2. Navigate to the project directory:
 cd weather-app
-Install http-server (if using Node.js):
 
-bash
-Copy code
+3. Install http-server (if using Node.js):
 npm install http-server
-Start the server:
 
-bash
-Copy code
+4. Start the server:
 npm start
 Open your browser and go to http://localhost:8080.
